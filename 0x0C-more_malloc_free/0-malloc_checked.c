@@ -2,10 +2,11 @@
 #include <stdlib.h>
 
 /**
- * malloc_checked - allocates memory using malloc
+ * malloc_checked - fuction that allocates memory using malloc
  *
  * @b: size in bytes
- * Return: void pointer
+ *
+ * Return: returns void pointer
  */
 void *malloc_checked(unsigned int b)
 {
